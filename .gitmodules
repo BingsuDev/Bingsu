@@ -1,0 +1,6 @@
+[submodule "bancho.py"]
+	path = bancho.py
+	url = https://github.com/bingsudev/bancho.py
+[submodule "guweb"]
+	path = guweb
+	url = https://github.com/bingsudev/guweb
